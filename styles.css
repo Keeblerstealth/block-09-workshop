@@ -1,0 +1,67 @@
+
+title {
+    color: aqua;
+}
+nav {
+    color: aqua;
+    background-color: blanchedalmond;
+    a:link {
+        text-decoration: none; */
+    }
+
+}
+header {
+    color: aqua;
+    text-align: center;
+    background-color: brown;
+}
+h1 {
+    color: aqua;
+}
+h2 {
+    color: aqua;
+}
+h3 {
+    color: aqua;
+}
+h4 {
+    color: aqua;
+}
+body {
+    background-color: black;
+}
+article {
+    color: aqua;
+}
+li {
+    color: aqua;
+}
+p {
+    color: beige;
+    text-align: center;
+}
+footer {
+    color: aqua;
+}
+.border {
+    border-style: ridge;
+    border-width: 25px;
+    text-indent: 15px;
+}
+#welcome {
+    text-align: center;
+
+}
+#DND {
+    background-image: url("./dnd-fs.jpg");
+    text-indent: 15px;
+    text-wrap: balance;
+}
+#rock-climbing {
+    background-image: url("./rock.jpg");
+    -moz-box-align: center;
+    display: inline-block;
+}
+#snowboarding {
+    
+}
